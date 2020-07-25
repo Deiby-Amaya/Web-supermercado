@@ -3,6 +3,8 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   color: blue;
 }
-.contenedor{
-  border: blue 2px;
+footer{
+  text-align: right;
+  color: chartreuse;
+  font-size: 20px;
 }
